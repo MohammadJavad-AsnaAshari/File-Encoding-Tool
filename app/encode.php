@@ -54,8 +54,7 @@ function encodeFile($inputFile, $fromEncoding, $toEncoding, $outputFile)
 encodeFile($inputFileName, 'WINDOWS-1256', 'UTF-8', $inputFileName . '_UTF-8.srt');
 
 // Encode the file to WINDOWS-1256
-encodeFile($inputFileName, 'UTF-8', 'WINDOWS-1256', $inputFileName . '_WINDOWS-1256.srt');
+//encodeFile($inputFileName, 'UTF-8', 'WINDOWS-1256', $inputFileName . '_WINDOWS-1256.srt');
 
-echo "File has been successfully encoded to UTF-8 and WINDOWS-1256. \n";
+echo "File has been successfully encoded to UTF-8. \n";
 ?>
-
