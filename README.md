@@ -11,7 +11,7 @@ This PHP script allows you to convert the character encoding of a text file from
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/your-repo.git
+   git clone https://github.com/MohammadJavad-AsnaAshari/File-Encoding-Tool.git
 
 2. Navigate to the project directory:
     ```bash
